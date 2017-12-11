@@ -1,0 +1,2 @@
+# CoinCounter
+Project assignment
